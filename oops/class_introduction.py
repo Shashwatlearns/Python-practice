@@ -1,4 +1,4 @@
-from class_collection import Car
+from class_introduction_classes import Car
 car1=Car("Mustang",1996,"Black",False)
 car2=Car("Camry",2005,"White",True)
 car3=Car("Civic",2010,"Red",True)
