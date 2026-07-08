@@ -12,5 +12,5 @@ plt.hist(scores, bins=11,
 plt.title('Exam Scores')
 plt.xlabel('Scores')
 plt.ylabel('Number of students')
-
+plt.grid(True)
 plt.show()

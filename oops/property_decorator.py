@@ -35,8 +35,8 @@ class Rectangle:
         del self._width
         print("width has been deleted")
 
-rectangle=Rectangle(10,20)
-rectangle.width=5
+rectangle=Rectangle(1,90)
+rectangle.width=0
 rectangle.height=-10
 print(rectangle._width)
 print(rectangle._height)
